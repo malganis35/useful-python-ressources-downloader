@@ -115,5 +115,3 @@ lst_subdirectories = list_all_directories()
 
 # Update the .gitignore
 update_gitignore(lst_subdirectories)
-
-# %%
