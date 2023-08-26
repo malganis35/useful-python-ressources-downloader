@@ -1,0 +1,2 @@
+https://github.com/jupyter-naas/awesome-notebooks
+https://github.com/PBI-Guy/blog
