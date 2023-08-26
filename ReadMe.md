@@ -27,5 +27,19 @@ pip install -r requirements.txt
 python main_ressources.py
 ```
 
+# List of current ressources
+## Cookiecutter
+Cookiecutter is a Python package that allows to create squeleton for coding projects and have a uniform code accross all your projects.
+- https://github.com/drivendata/cookiecutter-data-science
+- https://github.com/audreyfeldroy/cookiecutter-pypackage
+- https://github.com/docker-science/cookiecutter-docker-science
+
+## Power BI
+- https://github.com/PBI-Guy/blog
+
+## Jupyter Notebook templates
+Jupyter Notebook template allows you to have standard notebooks created by the community and avoid to start from scratch when starting a project
+- https://github.com/jupyter-naas/awesome-notebooks
+
 # Author
 Cao Tri DO: caotri.dofavier.fr
