@@ -1,2 +1,5 @@
 https://github.com/jupyter-naas/awesome-notebooks
 https://github.com/PBI-Guy/blog
+https://github.com/drivendata/cookiecutter-data-science
+https://github.com/audreyfeldroy/cookiecutter-pypackage
+https://github.com/docker-science/cookiecutter-docker-science
