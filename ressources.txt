@@ -4,4 +4,5 @@ https://github.com/drivendata/cookiecutter-data-science
 https://github.com/audreyfeldroy/cookiecutter-pypackage
 https://github.com/docker-science/cookiecutter-docker-science
 https://github.com/guipsamora/pandas_exercises
+https://github.com/microsoft/Fabric-Readiness
 

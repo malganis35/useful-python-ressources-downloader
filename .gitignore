@@ -4,3 +4,5 @@ cookiecutter-docker-science/
 cookiecutter-data-science/
 cookiecutter-pypackage/
 pandas_exercises/
+Fabric-Readiness/
+.python-version
