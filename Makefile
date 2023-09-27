@@ -18,6 +18,10 @@
 # PROJECT RULES                                                                 #
 #################################################################################
 
+## Install the python dependencies
+dev-install:
+	pip install -r requirement.txt
+
 ## Download the ressources through git commands
 run:
 	python main_ressources.py
