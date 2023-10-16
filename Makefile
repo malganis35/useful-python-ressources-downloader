@@ -20,7 +20,7 @@
 
 ## Install the python dependencies
 dev-install:
-	pip install -r requirement.txt
+	pip install -r requirements.txt
 
 ## Download the ressources through git commands
 run:
