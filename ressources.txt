@@ -7,3 +7,4 @@ https://github.com/guipsamora/pandas_exercises
 https://github.com/microsoft/Fabric-Readiness
 https://github.com/RuiRomano/pbimonitor.git
 https://github.com/data-goblin/powerbi-macguyver-toolbox
+https://github.com/claudiomirti/microsoft-fabric-data-science
